@@ -1,0 +1,16 @@
+
+main {
+    margin: 10px;
+    background-color: dimgrey;
+}
+
+.primeira {
+    width: 10px;
+    height: 5px;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+
+}
